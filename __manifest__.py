@@ -2,7 +2,7 @@
 # Part of Odoo. See LICENSE file for full copyright and licensing details.
 
 {
-    'name': 'Leaves',
+    'name': 'Ausencia de Empleados',
     'version': '1.5',
     'category': 'Human Resources',
     'summary': 'Allocate leaves and follow leave requests',
